@@ -1,3 +1,3 @@
-# Tinkoff-Fintech-Final-Project
+# tinkoff-fintech-final-project
 
 Финальный проект по кредитному скорингу на образовательной программе "Управление рисками" в Тинькофф Финтех. 
