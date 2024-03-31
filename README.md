@@ -1,3 +1,3 @@
-# tinkoff-fintech-final-project
+# Final project "Risk managment"
 
-Финальный проект по кредитному скорингу на образовательной программе "Управление рисками" в Тинькофф Финтех. 
+The final project on credit scoring in the educational program "Risk Management" at Tinkoff Fintech.
